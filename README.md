@@ -50,7 +50,7 @@
 
 Feel free to reach out if you want to chat about the Scrimbassador program, operations, community building, or just swap cat stories! 🐈
 
-![Visitor Count](https://profile-counter.glitch.me/lkrryba/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=lkrryba&color=blueviolet)
 
 ---
 
