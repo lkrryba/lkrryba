@@ -1,4 +1,4 @@
-# Hello, Universe! I'm Leanne 👋
+# Hello, Universe! I'm Leanne 🌞
 
 - 👩🏻‍💼 **What I do:** Scrimbassador Program Manager & Operations Lead at Scrimba
 
