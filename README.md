@@ -32,7 +32,7 @@
 
 | | |
 |---|---|
-| <br>**[Christmas Argument Coach](https://scrimba.com/s0ihi4k9du/head)** 🎄<br><br>Navigate holiday family dinners with grace and wit! An interactive coach to help you survive (or start! 😈 festive debates.<br><br><sub>HTML • CSS • JavaScript</sub><br><br> | <br>**[Cat Timeline](https://scrimba.com/s04gdlr/s0bknl2t32/head)** 🐱<br><br>A purr-fect timeline celebrating my four fabulous felines and their most memorable moments.<br><br><sub>HTML • CSS • JavaScript</sub><br><br> |
+| <br>**[Christmas Argument Coach](https://scrimba.com/s0ihi4k9du/head)** 🎄<br><br>Navigate holiday family dinners with grace and wit! An interactive coach to help you survive (or start! 😈) festive debates.<br><br><sub>HTML • CSS • JavaScript</sub><br><br> | <br>**[Cat Timeline](https://scrimba.com/s04gdlr/s0bknl2t32/head)** 🐱<br><br>A purr-fect timeline celebrating my four fabulous felines and their most memorable moments.<br><br><sub>HTML • CSS • JavaScript</sub><br><br> |
 | | |
 
 ## Scrimba Courses I've Completed
