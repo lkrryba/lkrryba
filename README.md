@@ -57,7 +57,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 ### 📚 Book Corner
 
 **Currently Reading:**
-- 🧸 **The Montessori Toddler** by Simone Davies — Gentle parenting wisdom for raising curious, independent little humans
-- 👑 **Lady in Waiting** by Anne Glenconner — Royal behind-the-scenes tea from a lady-in-waiting to Princess Margaret
+- 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
+- 👑 **Lady in Waiting** by Anne Glenconner ~ Royal behind-the-scenes tea from a lady-in-waiting to Princess Margaret
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/README.md)
