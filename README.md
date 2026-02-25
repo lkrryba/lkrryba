@@ -61,4 +61,4 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 - 👻 **Of Ghosts and Goblins** by Lafcadio Hearn ~ Haunting Japanese folklore tales blending traditional yokai with the author's Irish childhood memories 🇯🇵 🇮🇪
 - ☕️ **How to Make the Best Coffee at Home** by James Hoffmann ~ Expert guide to brewing better coffee in your own kitchen
 
-View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/README.md)
+View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/READ%5BINGJOURNAL%5DME.md)
