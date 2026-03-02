@@ -58,6 +58,6 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 👻 **Of Ghosts and Goblins** by Lafcadio Hearn ~ Haunting Japanese folklore tales blending traditional yokai with the author's Irish childhood memories 🇯🇵 🇮🇪
+- 🛳️ **Down to the Sea in Ships** by Horatio Clare ~ First-hand account of life on two container ships as they make their epic voyages across the globe
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/READ%5BINGJOURNAL%5DME.md)
