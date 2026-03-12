@@ -58,6 +58,6 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 🛳️ **Down to the Sea in Ships** by Horatio Clare ~ First-hand account of life on two container ships as they make their epic voyages across the globe
+- 🏪 **Convenience Store Woman** by Sayaka Murata ~ Woman finds purpose and identity in the rigid routines of her konbini job, resisting society's expectations
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/READ%5BINGJOURNAL%5DME.md)
