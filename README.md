@@ -58,6 +58,6 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 🏪 **Convenience Store Woman** by Sayaka Murata ~ Woman finds purpose and identity in the rigid routines of her konbini job, resisting society's expectations
+- 🌌 **Cosmicomics** by Italo Calvino ~ Playful stories narrated by an ancient being witnessing the universe's formation, from the Big Bang to evolution
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/READ%5BINGJOURNAL%5DME.md)
