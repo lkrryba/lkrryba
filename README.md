@@ -58,6 +58,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 🌌 **Cosmicomics** by Italo Calvino ~ Playful stories narrated by an ancient being witnessing the universe's formation, from the Big Bang to evolution
+- 👑 **Entitled: The Rise and Fall of the House of York** (🎧) by Andrew Lownie ~ Devastating biography exposing Prince Andrew and Sarah Ferguson's scandals, entitlement, and the Epstein connection
+- 💄 **Only Say Good Things** by Crystal Hefner ~ Raw memoir exposing the toxic reality behind Playboy's glamorous facade and one woman's journey to reclaim her identity
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/READ%5BINGJOURNAL%5DME.md)
