@@ -58,7 +58,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 👑 **Entitled: The Rise and Fall of the House of York** (🎧) by Andrew Lownie ~ Devastating biography exposing Prince Andrew and Sarah Ferguson's scandals, entitlement, and the Epstein connection
-- 💄 **Only Say Good Things** by Crystal Hefner ~ Raw memoir exposing the toxic reality behind Playboy's glamorous facade and one woman's journey to reclaim her identity
+- 👗 **The Black Dress by Deborah Moggach** ~ Darkly funny tale of a newly single woman crashing funerals in search of romance and reinvention
+- 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and powerful abusers
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/READ%5BINGJOURNAL%5DME.md)
