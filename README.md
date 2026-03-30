@@ -58,7 +58,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 👗 **The Black Dress by Deborah Moggach** ~ Darkly funny tale of a newly single woman crashing funerals in search of romance and reinvention
+- **🪐 The Little Prince** by Antoine de Saint-Exupéry ~ Timeless tale of a boy from space teaching profound life lessons through his cosmic journey
 - 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and powerful abusers
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal/blob/main/READ%5BINGJOURNAL%5DME.md)
