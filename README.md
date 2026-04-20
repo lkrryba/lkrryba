@@ -58,7 +58,8 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- **🗾 Abroad in Japan** by Chris Broad ~ YouTuber's hilarious decade-long journey navigating culture clashes, earthquakes, and quirky adventures across all 47 prefectures 🇯🇵 
-- 💔🎧 **Nobody's Girl** by Virginia Roberts Giuffre ~ Posthumous memoir of courage and survival, exposing Epstein, Maxwell, and other powerful abusers
+- 🛞 **Deep Wheel Orcadia** by Harry Josephine Giles ~ Sci-fi verse novel in Orkney dialect about love and belonging on a struggling space ship
+- 📚(🎧) **A Short Stay in Hell** by Steven L. Peck ~ Mormon man awakens in hell as an infinite library where he must find the one book containing his life story
+
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal)
