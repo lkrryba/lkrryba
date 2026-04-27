@@ -58,8 +58,8 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 🛞 **Deep Wheel Orcadia** by Harry Josephine Giles ~ Sci-fi verse novel in Orkney dialect about love and belonging on a struggling space ship
-- 📚(🎧) **A Short Stay in Hell** by Steven L. Peck ~ Mormon man awakens in hell as an infinite library where he must find the one book containing his life story
+- 🔥 **Wide Sargasso Sea** by Jean Rhys ~ Feminist postcolonial prequel to Jane Eyre telling the story of the mad woman in the attic
+- 👑🎧 **Spare** by Prince Harry ~ Raw memoir chronicling grief, military service, mental health struggles, and leaving the royal family 🇬🇧
 
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal)
