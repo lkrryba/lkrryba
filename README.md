@@ -57,8 +57,8 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 ### 📚 Book Corner
 
 **Currently Reading:**
-- 🧸 **The Montessori Toddler** by Simone Davies ~ Gentle parenting wisdom for raising curious, independent little humans
-- 🔥 **Wide Sargasso Sea** by Jean Rhys ~ Feminist postcolonial prequel to Jane Eyre telling the story of the mad woman in the attic
+- 🕵️ How to Stage a Coup by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference
+- 🔥 **Wide Sargasso Sea** by Jean Rhys ~ Postcolonial prequel to Jane Eyre telling the story of the mad woman in the attic
 - 👑🎧 **Spare** by Prince Harry ~ Raw memoir chronicling grief, military service, mental health struggles, and leaving the royal family 🇬🇧
 
 
