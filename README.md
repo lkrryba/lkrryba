@@ -58,8 +58,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference
-- 🐌 **Slugs of Britain and Ireland** by Ben Rowson, James Turner, Roy Anderson & Bill Symondson ~ Comprehensive field guide to all 46 slug and semi-slug species, revealing surprising biodiversity in this overlooked fauna
-- 💪 **Taking Back My Power** by Georgia Harrison ~ Reality star's courageous fight for justice after revenge porn betrayal, changing UK law for image-based abuse victims
+- 🍻 **Slags** by Emma Jane Unsworth ~ Two sisters embark on a whisky-fueled Scottish road trip, confronting 90s teenage trauma and the long shadow of who they used to be
 
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal)
