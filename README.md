@@ -59,6 +59,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 **Currently Reading:**
 - 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference
 - 🍻 **Slags** by Emma Jane Unsworth ~ Two sisters embark on a whisky-fueled Scottish road trip, confronting 90s teenage trauma and the long shadow of who they used to be
+- 💪 (🎧) **A Hymn to Life** by Gisèle Pelicot ~ Courageous memoir of survival and defiance after discovering her husband drugged and orchestrated her abuse for a decade 🇫🇷
 
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal)
