@@ -57,9 +57,9 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 ### 📚 Book Corner
 
 **Currently Reading:**
-- 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference
 - ⚖️ **The Fall** by Albert Camus ~ A former Parisian lawyer's confessional monologue in an Amsterdam bar, exploring guilt, judgment, and moral hypocrisy
-- 🙌 **The Let Them Theory** by Mel Robbins ~ Stop trying to control everyone and everything. Focus on yourself and find freedom in two simple words.
+- 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference
+- 🙌 (🎧) **The Let Them Theory** by Mel Robbins ~ Stop trying to control everyone and everything. Focus on yourself and find freedom in two simple words.
 
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal)
