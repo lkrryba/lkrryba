@@ -58,8 +58,8 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference
-- 🍻 **Slags** by Emma Jane Unsworth ~ Two sisters embark on a whisky-fueled Scottish road trip, confronting 90s teenage trauma and the long shadow of who they used to be
-- 💪 (🎧) **A Hymn to Life** by Gisèle Pelicot ~ Courageous memoir of survival and defiance after discovering her husband drugged and orchestrated her abuse for a decade 🇫🇷
+- ⚖️ **The Fall** by Albert Camus ~ A former Parisian lawyer's confessional monologue in an Amsterdam bar, exploring guilt, judgment, and moral hypocrisy
+- 🙌 **The Let Them Theory** by Mel Robbins ~ Stop trying to control everyone and everything. Focus on yourself and find freedom in two simple words.
 
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal)
