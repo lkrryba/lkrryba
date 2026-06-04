@@ -58,6 +58,8 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference
+- **👻 The House of the Spirits** by Isabel Allende ~ Epic multigenerational saga of a Chilean family swept up in love, magic, and political upheaval
+- 🎯 **Take Control of Your Life** (🎧) by Mel Robbins ~ Six coaching sessions tackling fear, self-doubt and the stories holding you back from the life you want.
 
 
 View my [Reading Journal](https://github.com/lkrryba/reading-journal)
