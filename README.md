@@ -58,7 +58,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference.
-- 🇰🇵 **Pyongyang: A Journey in North Korea** by Guy Delisle ~ Sardonic graphic novel memoir of two months inside the world's most secretive state, armed with a work visa and a copy of 1984.
+- 🦅 **Rebel** by Rahaf Mohammed ~ Gripping memoir of an eighteen-year-old who barricaded herself in a Bangkok hotel room and tweeted her way to asylum, exposing the brutal reality of Saudi Arabia's male guardianship system 
 - 🎯 **Take Control of Your Life** (🎧) by Mel Robbins ~ Six coaching sessions tackling fear, self-doubt and the stories holding you back from the life you want.
 
 
