@@ -1,12 +1,10 @@
 # Hello, Universe! I'm Leanne 🌞
 
-- 👩🏻‍💼 **What I do:** Operations Lead @ Scrimba • CV Reviews at lrybintsev.com • Edtech & SaaS • Coffee, books, and cats🪻
+👩🏻‍💼 **What I do:** Operations Lead @ Scrimba • CV Reviews at lrybintsev.com • Edtech & SaaS • Coffee, books, and cats🪻
 
-- 🌸 **What I care about:** Efficiency, fun, and delightful UX
+🌸 **What I care about:** Efficiency, fun, and delightful UX
 
-- 🧩 **Tech I'm using:** HTML, CSS, JavaScript, SQL, Markdown
-
-- 🐈‍⬛ **Fun fact:** I have four cats with very distinct personalities: Pumpkin (regal Godfather), Kitty (cheeky elf), Noodle (intrepid joker), and Fluffy (loves meditating) 
+🐈‍⬛ **Fun fact:** I have four cats with very distinct personalities: Pumpkin (regal Godfather), Kitty (cheeky elf), Noodle (intrepid joker), and Fluffy (loves meditating) 
 
 ### 🛠️ My Toolkit
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
