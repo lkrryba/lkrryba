@@ -1,6 +1,6 @@
 # Hello, Universe! I'm Leanne 🌞
 
-- 👩🏻‍💼 **What I do:** Scrimbassador Program Manager & Operations Lead at Scrimba
+- 👩🏻‍💼 **What I do:** Operations Lead @ Scrimba • CV Reviews at lrybintsev.com • Edtech & SaaS • Coffee, books, and cats🪻
 
 - 🌸 **What I care about:** Efficiency, fun, and delightful UX
 
@@ -58,7 +58,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 
 **Currently Reading:**
 - 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference.
-- 🦅 **Rebel** by Rahaf Mohammed ~ Gripping memoir of an eighteen-year-old who barricaded herself in a Bangkok hotel room and tweeted her way to asylum, exposing the brutal reality of Saudi Arabia's male guardianship system 
+- 🌞 **Summer** by Edith Wharton ~ Young woman's passionate awakening in a small New England town ends in harsh confrontation with society's constraints
 - 🎯 **Take Control of Your Life** (🎧) by Mel Robbins ~ Six coaching sessions tackling fear, self-doubt and the stories holding you back from the life you want.
 
 
