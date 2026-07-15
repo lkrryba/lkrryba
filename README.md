@@ -8,7 +8,10 @@
 
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/leannerybintsev/) • [My Scrimba Profile](https://scrimba.com/@lkrryba) • [Learn JavaScript (my fave course!)](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](https://scrimba.com/s02g47g/s02192djlg/head)  • [Kind, personalised CV Reviews for anyone](https://lrybintsev.com/cv-reviews)
+• [LinkedIn](https://www.linkedin.com/in/leannerybintsev/) 
+• [My Scrimba Profile](https://scrimba.com/@lkrryba) 
+• [Learn JavaScript (my fave course!)](https://scrimba.com/learn-javascript-c0v) 
+•[Kind, personalised CV Reviews for anyone](https://lrybintsev.com/cv-reviews)
 
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
@@ -22,11 +25,9 @@
 ---
 
 ## Projects
-
-| | |
 |---|---|
 | <br>**[Christmas Argument Coach](https://scrimba.com/s0ihi4k9du/head)** 🎄<br><br>Navigate holiday family dinners with grace and wit! An interactive coach to help you survive (or start! 😈) festive debates.<br><br><sub>HTML • CSS • JavaScript</sub><br><br> | <br>**[Scrimbassador Ideas](https://github.com/lkrryba/scrimbassador-ideas)** 💡<br><br>A task list for Scrimbassadors to track content creation, portfolio building, and community engagement. Complete 10 tasks to earn a free month of Scrimba Pro!<br><br><sub>Markdown</sub><br><br> |
-| | |
+
 
 ## Scrimba Courses I've Completed
 
