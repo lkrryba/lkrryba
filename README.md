@@ -6,15 +6,10 @@
 
 🐈‍⬛ **Fun fact:** I have four cats with very distinct personalities: Pumpkin (regal Godfather), Kitty (cheeky elf), Noodle (intrepid joker), and Fluffy (loves meditating) 
 
-### 🛠️ My Toolkit
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/leannerybintsev/) • [My Scrimba Profile](https://scrimba.com/@lkrryba) • [Learn JavaScript (my fave course!)](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](https://scrimba.com/s02g47g/s02192djlg/head)
+[LinkedIn](https://www.linkedin.com/in/leannerybintsev/) • [My Scrimba Profile](https://scrimba.com/@lkrryba) • [Learn JavaScript (my fave course!)](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](https://scrimba.com/s02g47g/s02192djlg/head)  • [Kind, personalised CV Reviews for anyone](https://lrybintsev.com/cv-reviews)
+
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
 
