@@ -52,8 +52,7 @@ Feel free to reach out if you want to chat about the Scrimbassador program, oper
 ### 📚 Book Corner
 
 **Currently Reading:**
-- 🕵️ **How to Stage a Coup** by Rory Cormac ~ Riveting exposé of global covert statecraft from assassinations to election interference.
-- 🌞 **Summer** by Edith Wharton ~ Young woman's passionate awakening in a small New England town ends in harsh confrontation with society's constraints
+- 🌴 **A Killer in Paradise** by Tom Hindle ~ Six old university friends reunite at a luxury Costa Rican rainforest hotel launch, but old secrets resurface when a body is discovered
 - 🎯 **Take Control of Your Life** (🎧) by Mel Robbins ~ Six coaching sessions tackling fear, self-doubt and the stories holding you back from the life you want.
 
 
