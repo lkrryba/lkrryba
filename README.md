@@ -25,9 +25,10 @@
 ---
 
 ## Projects
+| | |
 |---|---|
 | <br>**[Christmas Argument Coach](https://scrimba.com/s0ihi4k9du/head)** 🎄<br><br>Navigate holiday family dinners with grace and wit! An interactive coach to help you survive (or start! 😈) festive debates.<br><br><sub>HTML • CSS • JavaScript</sub><br><br> | <br>**[Scrimbassador Ideas](https://github.com/lkrryba/scrimbassador-ideas)** 💡<br><br>A task list for Scrimbassadors to track content creation, portfolio building, and community engagement. Complete 10 tasks to earn a free month of Scrimba Pro!<br><br><sub>Markdown</sub><br><br> |
-
+| | |
 
 ## Scrimba Courses I've Completed
 
